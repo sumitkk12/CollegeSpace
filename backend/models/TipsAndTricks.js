@@ -19,7 +19,11 @@ const TipsAndTricksSchema = new Schema({
     },
     howIGotPlaced:{
         type:String
-    }
+    },
+    // likes:{
+    //     type:Number,
+    //     default:0
+    // }
 
 });
 
